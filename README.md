@@ -1,3 +1,7 @@
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+>>>>>>> Stashed changes
 # Welcome dans mon histoire à propos de git.
 
 ## Mon text est à propos de l'exo du cadavre exquis
@@ -16,5 +20,6 @@
 ** Vous ne passerez PAS **
 
 *Panne d'inspi*
+
 
 
